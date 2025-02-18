@@ -5,7 +5,7 @@ A <strong>TODO LIST</strong> web application with responsive UI which makes it e
 This helps you to achieve all your daily and weekly objectives in timely fashion :slightly_smiling_face:.
 
 ## App Usage
-- The web application has been deployed to heroku server so that you can have a full user experience of the web application .<a href="https://faruqs-todo-app.herokuapp.com/"> Click here </a>
+- The web application has been deployed to heroku server so that you can have a full user experience of the web application 
 
 ## Code Usage
 - Clone the repository
